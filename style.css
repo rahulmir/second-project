@@ -1,0 +1,122 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.navbar-nav {
+  gap: 30px;
+  margin: 0 auto;
+  padding-left: 300px;
+}
+.navbar-brand {
+  position: absolute;
+  left: 200px;
+  color: #2245e3;
+}
+.hero-text p {
+  font-size: 14px;
+  color: #7985b2;
+  margin-top: 20px;
+}
+.hero-text {
+  position: absolute;
+  top: 300px;
+}
+.hero-btn {
+  display: flex;
+  gap: 20px;
+  margin-top: 50px;
+}
+.photo img {
+  width: 80%;
+  margin-top: 100px;
+  position: relative;
+  left: 150px;
+  bottom: 70px;
+}
+.nav-background {
+  background-image: url(img/Path.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  margin-bottom: 100px;
+}
+.hero-1-text p {
+  color: #7985b2;
+}
+.icon {
+  font-size: 40px;
+  color: orange;
+}
+.p-cl {
+  color: #5d6970;
+}
+.top {
+  margin-top: 50px;
+}
+.hero-bottom {
+  margin-top: 150px;
+}
+.mr-gin {
+  margin-top: 50px;
+}
+.hero-bottom-3-txt p {
+  color: #6f7cb3;
+}
+.icon-1 {
+  font-size: 40px;
+  margin-top: 30px;
+  color: orange;
+}
+.photo-2 img {
+  margin-left: 100px;
+  width: 80%;
+}
+.top-pad {
+  margin-top: 150px;
+}
+.hero-last {
+  text-align: center;
+  margin-top: 100px;
+}
+.item-center {
+  justify-content: center;
+}
+.hero-last-txt {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.last-main {
+  background-image: url(img/Rectangle.png);
+  padding-bottom: 100px;
+}
+.fotter {
+  display: flex;
+  gap: 450px;
+  margin-top: 70px;
+}
+.line {
+  border: 1px solid;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
+  color: #888b99;
+}
+.flex {
+  display: flex;
+  gap: 50px;
+  margin-top: 50px;
+}
+.icon-end {
+  font-size: 20px;
+  margin-top: 50px;
+  position: absolute;
+  left: 1200px;
+}
+.fotter-clolor {
+  background-color: #e7ecff;
+}
+.img-1 img {
+  width: 50%;
+  position: relative;
+}
